@@ -140,3 +140,4 @@ C:\temp\projetos\asp_.net_core_web_api\WebApi\WebApi\obj\Debug\net8.0\refint\Web
 C:\temp\projetos\asp_.net_core_web_api\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\temp\projetos\asp_.net_core_web_api\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\temp\projetos\asp_.net_core_web_api\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\temp\projetos\asp_.net_core_web_api\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
